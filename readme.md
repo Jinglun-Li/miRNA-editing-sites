@@ -1,1 +1,1 @@
-These three files is used in the cluster of lulab
+These three files are used in the cluster of lulab
